@@ -1,0 +1,32 @@
+S.N.,State/UT,Capitals,Type,Population,% Population,Males,Females,Sex Ratio,Literacy rate (%)
+1,Uttar Pradesh,Lucknow,State,"199,812,341",16.5,"104,480,510","95,331,831",912,67.68
+2,Maharashtra,Mumbai,State,"112,374,333",9.28,"58,243,056","54,131,277",929,82.34
+3,Bihar,Patna,State,"104,099,452",8.6,"54,278,157","49,821,295",918,61.8
+4,West Bengal,Kolkata,State,"91,276,115",7.54,"46,809,027","44,467,088",950,76.26
+5,Andhra Pradesh,Hyderabad,State,"84,580,777",6.99,"42,442,146","42,138,631",993,67.02
+6,Madhya Pradesh,Bhopal,State,"72,626,809",6,"37,612,306","35,014,503",931,69.32
+7,Tamil Nadu,Chennai,State,"72,147,030",5.96,"36,137,975","36,009,055",996,80.09
+8,Rajasthan,Jaipur,State,"68,548,437",5.66,"35,550,997","32,997,440",928,66.11
+9,Karnataka,Bengaluru,State,"61,095,297",5.05,"30,966,657","30,128,640",973,75.36
+10,Gujarat,Gandhinagar,State,"60,439,692",4.99,"31,491,260","28,948,432",919,78.03
+11,Odisha,Bhubaneshwar,State,"41,974,218",3.47,"21,212,136","20,762,082",979,72.87
+12,Kerala,Thiruvananthapuram,State,"33,406,061",2.76,"16,027,412","17,378,649","1,084",94
+13,Jharkhand,Ranchi,State,"32,988,134",2.72,"16,930,315","16,057,819",948,66.41
+14,Assam,Dispur,State,"31,205,576",2.58,"15,939,443","15,266,133",958,72.19
+15,Punjab,Chandigarh,State,"27,743,338",2.29,"14,639,465","13,103,873",895,75.84
+16,Chhattisgarh,Raipur,State,"25,545,198",2.11,"12,832,895","12,712,303",991,70.28
+17,Haryana,Chandigarh,State,"25,351,462",2.09,"13,494,734","11,856,728",879,75.55
+18,Delhi,Delhi,UT,"16,787,941",1.39,"8,887,326","7,800,615",868,86.21
+19,Jammu and Kashmir,Jammu(winter) Srinagar(summer),State,"12,541,302",1.04,"6,640,662","5,900,640",889,67.16
+20,Uttarakhand,Dehradun,State,"10,086,292",0.83,"5,137,773","4,948,519",963,79.63
+21,Himachal Pradesh,Shimla,State,"6,864,602",0.57,"3,481,873","3,382,729",972,82.8
+22,Tripura,Agartala,State,"3,673,917",0.3,"1,874,376","1,799,541",960,87.22
+23,Meghalaya,Shillong,State,"2,966,889",0.25,"1,491,832","1,475,057",989,74.43
+24,Manipur,Imphal,State,"2,721,756",0.21,"1,290,171","1,280,219",992,79.21
+25,Goa,Panaji,State,"1,458,545",0.12,"739,140","719,405",973,88.7
+26,Arunachal Pradesh,Itanagar,State,"1,383,727",0.11,"713,912","669,815",938,65.38
+27,Puducherry,Pondicherry,UT,"1,247,953",0.1,"612,511","635,442","1,037",85.85
+28,Mizoram,Aizawl,State,"1,097,206",0.09,"555,339","541,867",976,91.33
+29,Chandigarh,Chandigarh,UT,"1,055,450",0.09,"580,663","474,787",818,86.05
+30,Andaman and Nicobar Islands,Port Blair,UT,"380,581",0.03,"202,871","177,710",876,86.63
+31,Dadar Nagar Haveli,Silvassa,UT,"343,709",0.03,"193,760","149,949",774,76.24
